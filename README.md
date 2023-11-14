@@ -6,15 +6,15 @@
 ### build
 (file path : dev_ws)
 
-colcon build
+- colcon build
 
-source install/setup.bash
+- source install/setup.bash
 
 ### Run
 
 file path : dev_ws
 
-ro2 run ultrasonic_package ultrasonic_node
+- ro2 run ultrasonic_package ultrasonic_node
 
 
 ### Topic 
