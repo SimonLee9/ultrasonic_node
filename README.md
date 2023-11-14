@@ -1,2 +1,3 @@
-# ultrasonic_node
-ultrasonic_node.py
+# ultrasonic_node.py
+
+ROS2 node for Ultrasonic. serial
